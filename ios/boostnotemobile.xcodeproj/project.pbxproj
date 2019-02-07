@@ -1470,7 +1470,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = boostnotemobile;
 				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";
@@ -1502,7 +1502,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.boostnote;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = boostnotemobile;
 				PROVISIONING_PROFILE = "741dc78c-f8de-4e9e-8727-96f6af7a5dab";
 				PROVISIONING_PROFILE_SPECIFIER = "Meirav Dist Prov";
