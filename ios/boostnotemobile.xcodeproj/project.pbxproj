@@ -1469,7 +1469,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = boostnotemobile;
         PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
         PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
@@ -1500,7 +1500,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.CleanReactNative-df";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = boostnotemobile;
         PROVISIONING_PROFILE = "7f1b44a8-ad56-47da-a3c3-ee6f0301b982";
         PROVISIONING_PROFILE_SPECIFIER = "Meirav Developer";
